@@ -1,0 +1,142 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    color: #121224;
+    background-color: #f8f9fd;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f5;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c5c7d0;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a0a4b2;
+}
+
+/* Custom placement badge & chip styling */
+.placement-chip, .naukri-chip {
+  @apply text-xs font-medium px-3 py-1.5 rounded-full border border-gray-200 text-gray-700 bg-white hover:border-blue-600 hover:text-blue-600 transition-all cursor-pointer inline-flex items-center gap-1.5;
+}
+
+.placement-chip-active, .naukri-chip-active {
+  @apply bg-blue-50 border-blue-600 text-blue-600 font-semibold;
+}
+
+.placement-card, .naukri-card {
+  @apply bg-white rounded-2xl border border-[#e7e7f1] p-5 hover:shadow-lg transition-all duration-300;
+}
+
+/* Animation Keyframes */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.96) translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes floatBob {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(39, 93, 245, 0.45);
+  }
+  50% {
+    box-shadow: 0 0 0 12px rgba(39, 93, 245, 0);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+/* Animation Utility Classes */
+.animate-fadeIn {
+  animation: fadeIn 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-fadeInUp {
+  animation: fadeInUp 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-scaleIn {
+  animation: scaleIn 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-slideInRight {
+  animation: slideInRight 0.32s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-floatBob {
+  animation: floatBob 3s ease-in-out infinite;
+}
+
+.animate-pulseGlow {
+  animation: pulseGlow 2.5s infinite;
+}
+
+.animate-shimmer {
+  background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.4) 50%, rgba(255,255,255,0) 100%);
+  background-size: 200% 100%;
+  animation: shimmer 2s infinite;
+}

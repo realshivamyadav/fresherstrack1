@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+Host: https://fresherstrack.site
+Sitemap: https://fresherstrack.site/sitemap.xml

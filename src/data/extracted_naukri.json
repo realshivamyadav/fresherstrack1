@@ -1,0 +1,281 @@
+[
+  {
+    "id": "nk-scraped-1792038588-811",
+    "title": "Graduate Software Development Trainee",
+    "company": "Oracle India",
+    "logoText": "OI",
+    "logoBg": "bg-blue-50 text-blue-700 border-blue-200",
+    "rating": 4.5,
+    "reviewsCount": "19.2k+ reviews",
+    "experience": "0 - 1 Yrs",
+    "salary": "18 - 24 LPA",
+    "location": "Bangalore",
+    "workMode": "Remote",
+    "category": "Corporate Recruiter Network",
+    "department": "Engineering & Technology",
+    "description": "Verified Corporate Drive: Oracle India is actively seeking campus recruits for Graduate Software Development Trainee. Must demonstrate strong analytical, algorithmic, and software development skills.",
+    "skills": [
+      "Java",
+      "SQL",
+      "Cloud",
+      "DSA"
+    ],
+    "postedDays": "Just Now",
+    "applicants": 318,
+    "source": "Corporate Partner Network",
+    "driveType": "Super Dream",
+    "batch": "2025 / 2026",
+    "eligibility": {
+      "minCgpa": 7.0,
+      "branches": [
+        "CSE",
+        "IT",
+        "ECE"
+      ],
+      "maxBacklogs": 0,
+      "bond": "No Bond"
+    },
+    "rounds": [
+      {
+        "name": "Online Assessment",
+        "duration": "90 Mins",
+        "desc": "DSA, Aptitude, Core CS"
+      },
+      {
+        "name": "Technical Interview 1",
+        "duration": "45 Mins",
+        "desc": "Data Structures & Live Coding"
+      },
+      {
+        "name": "HR & Culture Round",
+        "duration": "30 Mins",
+        "desc": "Behavioral & Offer Discussion"
+      }
+    ],
+    "naukriJobId": "310125003706",
+    "isExtracted": true
+  },
+  {
+    "id": "nk-scraped-1792038588-320",
+    "title": "Campus Analyst - Technology Operations",
+    "company": "Goldman Sachs",
+    "logoText": "GS",
+    "logoBg": "bg-blue-50 text-blue-700 border-blue-200",
+    "rating": 4.0,
+    "reviewsCount": "15.6k+ reviews",
+    "experience": "0 - 1 Yrs",
+    "salary": "22 - 28 LPA",
+    "location": "Bangalore",
+    "workMode": "Work from office",
+    "category": "Corporate Recruiter Network",
+    "department": "Engineering & Technology",
+    "description": "Verified Corporate Drive: Goldman Sachs is actively seeking campus recruits for Campus Analyst - Technology Operations. Must demonstrate strong analytical, algorithmic, and software development skills.",
+    "skills": [
+      "C++",
+      "Python",
+      "Data Structures"
+    ],
+    "postedDays": "Just Now",
+    "applicants": 46,
+    "source": "Corporate Partner Network",
+    "driveType": "Super Dream",
+    "batch": "2025 / 2026",
+    "eligibility": {
+      "minCgpa": 6.5,
+      "branches": [
+        "CSE",
+        "IT",
+        "ECE"
+      ],
+      "maxBacklogs": 0,
+      "bond": "No Bond"
+    },
+    "rounds": [
+      {
+        "name": "Online Assessment",
+        "duration": "90 Mins",
+        "desc": "DSA, Aptitude, Core CS"
+      },
+      {
+        "name": "Technical Interview 1",
+        "duration": "45 Mins",
+        "desc": "Data Structures & Live Coding"
+      },
+      {
+        "name": "HR & Culture Round",
+        "duration": "30 Mins",
+        "desc": "Behavioral & Offer Discussion"
+      }
+    ],
+    "naukriJobId": "310125004654",
+    "isExtracted": true
+  },
+  {
+    "id": "nk-scraped-1792038588-777",
+    "title": "Associate Cloud Engineer - Fresher",
+    "company": "Cisco Systems",
+    "logoText": "CS",
+    "logoBg": "bg-blue-50 text-blue-700 border-blue-200",
+    "rating": 4.1,
+    "reviewsCount": "44.8k+ reviews",
+    "experience": "0 - 1 Yrs",
+    "salary": "14 - 19 LPA",
+    "location": "Bangalore",
+    "workMode": "Hybrid",
+    "category": "Corporate Recruiter Network",
+    "department": "Engineering & Technology",
+    "description": "Verified Corporate Drive: Cisco Systems is actively seeking campus recruits for Associate Cloud Engineer - Fresher. Must demonstrate strong analytical, algorithmic, and software development skills.",
+    "skills": [
+      "Networking",
+      "Python",
+      "Linux",
+      "AWS"
+    ],
+    "postedDays": "Just Now",
+    "applicants": 172,
+    "source": "Corporate Partner Network",
+    "driveType": "Dream",
+    "batch": "2025 / 2026",
+    "eligibility": {
+      "minCgpa": 6.5,
+      "branches": [
+        "CSE",
+        "IT",
+        "ECE"
+      ],
+      "maxBacklogs": 0,
+      "bond": "No Bond"
+    },
+    "rounds": [
+      {
+        "name": "Online Assessment",
+        "duration": "90 Mins",
+        "desc": "DSA, Aptitude, Core CS"
+      },
+      {
+        "name": "Technical Interview 1",
+        "duration": "45 Mins",
+        "desc": "Data Structures & Live Coding"
+      },
+      {
+        "name": "HR & Culture Round",
+        "duration": "30 Mins",
+        "desc": "Behavioral & Offer Discussion"
+      }
+    ],
+    "naukriJobId": "310125006438",
+    "isExtracted": true
+  },
+  {
+    "id": "nk-scraped-1792038588-481",
+    "title": "Full Stack Developer Trainee",
+    "company": "Swiggy",
+    "logoText": "S",
+    "logoBg": "bg-blue-50 text-blue-700 border-blue-200",
+    "rating": 4.3,
+    "reviewsCount": "34.6k+ reviews",
+    "experience": "0 - 1 Yrs",
+    "salary": "16 - 22 LPA",
+    "location": "Bangalore",
+    "workMode": "Remote",
+    "category": "Corporate Recruiter Network",
+    "department": "Engineering & Technology",
+    "description": "Verified Corporate Drive: Swiggy is actively seeking campus recruits for Full Stack Developer Trainee. Must demonstrate strong analytical, algorithmic, and software development skills.",
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "Redis"
+    ],
+    "postedDays": "Just Now",
+    "applicants": 79,
+    "source": "Corporate Partner Network",
+    "driveType": "Super Dream",
+    "batch": "2025 / 2026",
+    "eligibility": {
+      "minCgpa": 8.0,
+      "branches": [
+        "CSE",
+        "IT",
+        "ECE"
+      ],
+      "maxBacklogs": 0,
+      "bond": "No Bond"
+    },
+    "rounds": [
+      {
+        "name": "Online Assessment",
+        "duration": "90 Mins",
+        "desc": "DSA, Aptitude, Core CS"
+      },
+      {
+        "name": "Technical Interview 1",
+        "duration": "45 Mins",
+        "desc": "Data Structures & Live Coding"
+      },
+      {
+        "name": "HR & Culture Round",
+        "duration": "30 Mins",
+        "desc": "Behavioral & Offer Discussion"
+      }
+    ],
+    "naukriJobId": "310125001704",
+    "isExtracted": true
+  },
+  {
+    "id": "nk-scraped-1792038588-451",
+    "title": "Systems Engineer - Prime Cadre",
+    "company": "TCS Digital",
+    "logoText": "TD",
+    "logoBg": "bg-blue-50 text-blue-700 border-blue-200",
+    "rating": 4.5,
+    "reviewsCount": "28.4k+ reviews",
+    "experience": "0 - 1 Yrs",
+    "salary": "9.0 - 11.5 LPA",
+    "location": "Bangalore",
+    "workMode": "Hybrid",
+    "category": "Corporate Recruiter Network",
+    "department": "Engineering & Technology",
+    "description": "Verified Corporate Drive: TCS Digital is actively seeking campus recruits for Systems Engineer - Prime Cadre. Must demonstrate strong analytical, algorithmic, and software development skills.",
+    "skills": [
+      "Java",
+      "DSA",
+      "REST",
+      "SQL"
+    ],
+    "postedDays": "Just Now",
+    "applicants": 76,
+    "source": "Corporate Partner Network",
+    "driveType": "Day 1 Drive",
+    "batch": "2025 / 2026",
+    "eligibility": {
+      "minCgpa": 7.0,
+      "branches": [
+        "CSE",
+        "IT",
+        "ECE"
+      ],
+      "maxBacklogs": 0,
+      "bond": "No Bond"
+    },
+    "rounds": [
+      {
+        "name": "Online Assessment",
+        "duration": "90 Mins",
+        "desc": "DSA, Aptitude, Core CS"
+      },
+      {
+        "name": "Technical Interview 1",
+        "duration": "45 Mins",
+        "desc": "Data Structures & Live Coding"
+      },
+      {
+        "name": "HR & Culture Round",
+        "duration": "30 Mins",
+        "desc": "Behavioral & Offer Discussion"
+      }
+    ],
+    "naukriJobId": "310125006766",
+    "isExtracted": true
+  }
+]
